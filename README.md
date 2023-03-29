@@ -33,7 +33,7 @@ After connecting to Azure VM via RDP or MRD, Right-Click Start menu >Run >Contro
 <br />
 
 <p>
-<img src="https://i.imgur.com/L3ZUudl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/L3ZUudl.png](https://imgur.com/a/FGyZQ3L)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install PHP Manager and all dependencies. Created a PHP directory in the c: drive and extracted PHP files & their contents into this directory.
